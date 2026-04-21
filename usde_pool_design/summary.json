@@ -1,0 +1,58 @@
+{
+  "V3 USDe/USDC 100pips": {
+    "slug": "V3_USDe-USDC_100pips",
+    "current_tick": -276327,
+    "days": 4.898333333333333,
+    "swaps": 4319,
+    "total_usd": 92135934.461316,
+    "winner": {
+      "offset": 0,
+      "W": 1,
+      "apy_pct": 59.07293401264299,
+      "lower_tick": -276328,
+      "upper_tick": -276326
+    }
+  },
+  "V4 USDe/USDC 100pips TS2": {
+    "slug": "V4_USDe-USDC_100pips_TS2",
+    "current_tick": -276326,
+    "days": 4.862222222222222,
+    "swaps": 209,
+    "total_usd": 94854.567876,
+    "winner": {
+      "offset": 3,
+      "W": 3,
+      "apy_pct": 0.7979039284731123,
+      "lower_tick": -276326,
+      "upper_tick": -276320
+    }
+  },
+  "V3 USDe/USDT 100pips": {
+    "slug": "V3_USDe-USDT_100pips",
+    "current_tick": -276333,
+    "days": 4.895,
+    "swaps": 569,
+    "total_usd": 539720.3419260001,
+    "winner": {
+      "offset": 3,
+      "W": 4,
+      "apy_pct": 2.604413548401483,
+      "lower_tick": -276334,
+      "upper_tick": -276326
+    }
+  },
+  "V4 USDe/USDT 40pips TS1": {
+    "slug": "V4_USDe-USDT_40pips_TS1",
+    "current_tick": -276331,
+    "days": 4.935,
+    "swaps": 4071,
+    "total_usd": 302553887.82267296,
+    "winner": {
+      "offset": -2,
+      "W": 1,
+      "apy_pct": 77.69120993914184,
+      "lower_tick": -276334,
+      "upper_tick": -276332
+    }
+  }
+}
