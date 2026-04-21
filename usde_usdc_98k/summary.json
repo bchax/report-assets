@@ -1,0 +1,50 @@
+{
+  "V3 USDe/USDC 100 pips": {
+    "slug": "V3_USDe-USDC_100pips",
+    "fee_pips": 100,
+    "ts": 1,
+    "protocol_fee": 0.25,
+    "inventory_usd": 196000,
+    "winner": {
+      "W": 1,
+      "offset": 0,
+      "apy": 46.82288706173954,
+      "share_med": 0.4690591122095469,
+      "deployed_usd": 195941.7297940384,
+      "lower_tick": -276328,
+      "upper_tick": -276326,
+      "current_tick": -276327,
+      "lower_norm": -4,
+      "upper_norm": -2
+    },
+    "swaps": 4319,
+    "total_usd": 92135934.461316,
+    "days": 4.898333333333333,
+    "current_norm": -3,
+    "median_norm": -1
+  },
+  "V4 USDe/USDC 100 pips TS2": {
+    "slug": "V4_USDe-USDC_100pips_TS2",
+    "fee_pips": 100,
+    "ts": 2,
+    "protocol_fee": 0.0,
+    "inventory_usd": 196000,
+    "winner": {
+      "W": 6,
+      "offset": 0,
+      "apy": 0.22949095158578597,
+      "share_med": 0.9946021505860713,
+      "deployed_usd": 195961.32396652806,
+      "lower_tick": -276332,
+      "upper_tick": -276320,
+      "current_tick": -276326,
+      "lower_norm": -8,
+      "upper_norm": 4
+    },
+    "swaps": 209,
+    "total_usd": 94854.567876,
+    "days": 4.862222222222222,
+    "current_norm": -2,
+    "median_norm": 0
+  }
+}
